@@ -190,6 +190,7 @@ section{padding:110px 0}
   color:var(--text-dim2);letter-spacing:0.01em;
 }
 .work-media{width:100%;height:100%;object-fit:cover;display:block}
+.work-media1{width:100%;height:100%;object-fit:contain;display:block}
 .work-info{padding:20px 22px}
 .work-info h4{font-size:1.02rem;margin-bottom:6px}
 .work-info p{color:var(--text-dim2);font-size:0.85rem}
